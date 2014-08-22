@@ -3,23 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-<<<<<<< HEAD
-	<string>aaa</string>
-=======
-	<string>passign</string>
->>>>>>> adaad6e0330927d4bb07c56d6c8a3f2ef703292c
+	<string>sself</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#name#&gt;;</string>
+	<string>@strongify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>884392EB-D15C-4B1E-9DC4-6A416615FE2D</string>
+	<string>8BB03EC7-3167-403B-A4E4-CDADEE1006A6</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property assign</string>
+	<string>strongify</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
