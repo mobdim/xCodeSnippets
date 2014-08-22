@@ -3,11 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-<<<<<<< HEAD
-	<string>aaa</string>
-=======
 	<string>passign</string>
->>>>>>> adaad6e0330927d4bb07c56d6c8a3f2ef703292c
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
