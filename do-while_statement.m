@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: dowhile
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 1FA9842C-8454-42F7-9119-5818388EDB58
+// IDECodeSnippetIdentifier: 761A47E9-8D9E-46D0-99CB-4F6530B1CA23
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 do {
     <#statements#>
 } while (<#condition#>);
