@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "Pulling..."
+git pull
+echo "OK"
+echo "Copying..."
+cp *.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets
+cp *.m ~/Library/Developer/Xcode/UserData/CodeSnippets
+echo "OK"

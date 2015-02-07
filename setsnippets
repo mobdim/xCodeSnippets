@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "Copying..."
+cp  ~/Library/Developer/Xcode/UserData/CodeSnippets/*.codesnippet ./
+cp ~/Library/Developer/Xcode/UserData/CodeSnippets/*.m ./
+echo "OK"
+echo "Pushing..."
+git add .
+git commit -am "Update snippets."
+git push
+echo "OK"
