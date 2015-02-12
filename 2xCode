@@ -4,6 +4,7 @@ echo "Pulling..."
 git pull
 echo "OK"
 echo "Copying..."
+mkdir -p ~/Library/Developer/Xcode/UserData/CodeSnippets
 cp *.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets
 cp *.m ~/Library/Developer/Xcode/UserData/CodeSnippets
 echo "OK"
